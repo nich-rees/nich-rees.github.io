@@ -2,4 +2,28 @@ body {
 	background-color: #82b7f7;
 	color: #000000;
 	font-family: "EB Garamond", serif;
+
+	width: 600px;
+	word-break: break-all;
+	white-space: normal;
+}
+a {
+	text-decoration: none;
+	color: inherit;
+	/*text-decoration-line: underline;*/
+	/*text-decoration-style: wavy;*/
+	/*text-decoration-thickness: 3px;*/
+}
+
+.list-inline {
+	padding: 0;
+	margin: 0;
+	list-style: none;
+}
+.list-inline > li {
+	display: inline;
+	padding: 0;
+	padding-left: 0.5em;
+	padding-right: 0.5em;
+	margin: 0;
 }
