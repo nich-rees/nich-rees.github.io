@@ -3,6 +3,9 @@ body {
 	color: #000000;
 	font-family: "EB Garamond", serif;
 
+  text-align: center;
+  margin: auto;
+
 	width: 600px;
 	/*word-break: break-all;*/
 	white-space: normal;
