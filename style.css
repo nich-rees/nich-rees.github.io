@@ -9,6 +9,7 @@ body {
 	font-family: "EB Garamond", serif;
 
   display: table-cell;
+  vertical-align: middle;
 
   text-align: center;
 	width: 600px;
