@@ -1,11 +1,16 @@
+html {
+  display: table;
+  margin: auto;
+}
+
 body {
 	background-color: #82b7f7;
 	color: #000000;
 	font-family: "EB Garamond", serif;
 
-  text-align: center;
-  margin: auto;
+  display: table-cell;
 
+  text-align: center;
 	width: 600px;
 	/*word-break: break-all;*/
 	white-space: normal;
